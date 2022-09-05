@@ -7,7 +7,7 @@ class Home extends StatelessWidget {
       appBar: AppBar(
         title: Text('Flutter Demo Home Page'),
       ),
-      body: Home(),
+      body: Text("master"),
     );
   }
 }
